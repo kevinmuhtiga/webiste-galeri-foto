@@ -22,6 +22,9 @@
                 <td></td>
                 <td><input type="submit" value="Login"></td>
             </tr>
+            <tr>
+                <td><a href="register.php">Belum punya akun ? klik disini</a></td>
+            </tr>
         </table>
     </form>
 </body>
